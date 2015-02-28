@@ -5,4 +5,4 @@ This repository contains my exercises as I work through the book
 
 by Riwanto Megosinarso
 
-You can see  version of this page at http://bootstrap.benjifisher.info/ .
+You can see a version of this page at http://bootstrap.benjifisher.info/ .
